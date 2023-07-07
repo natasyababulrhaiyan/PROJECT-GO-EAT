@@ -1,7 +1,7 @@
-USER
+//USER//
 Username = user
 Password = user123
 
-ADMIN
+//ADMIN//
 Username = admin
 Password = admin123
